@@ -1,0 +1,11 @@
+C:\Users\pc\Documents\pooa\timedMathQuiz\timedMathQuiz\bin\Debug\timedMathQuiz.exe.config
+C:\Users\pc\Documents\pooa\timedMathQuiz\timedMathQuiz\bin\Debug\timedMathQuiz.exe
+C:\Users\pc\Documents\pooa\timedMathQuiz\timedMathQuiz\bin\Debug\timedMathQuiz.pdb
+C:\Users\pc\Documents\pooa\timedMathQuiz\timedMathQuiz\obj\Debug\timedMathQuiz.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\pooa\timedMathQuiz\timedMathQuiz\obj\Debug\timedMathQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Documents\pooa\timedMathQuiz\timedMathQuiz\obj\Debug\timedMathQuiz.Form1.resources
+C:\Users\pc\Documents\pooa\timedMathQuiz\timedMathQuiz\obj\Debug\timedMathQuiz.Properties.Resources.resources
+C:\Users\pc\Documents\pooa\timedMathQuiz\timedMathQuiz\obj\Debug\timedMathQuiz.csproj.GenerateResource.cache
+C:\Users\pc\Documents\pooa\timedMathQuiz\timedMathQuiz\obj\Debug\timedMathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\pooa\timedMathQuiz\timedMathQuiz\obj\Debug\timedMathQuiz.exe
+C:\Users\pc\Documents\pooa\timedMathQuiz\timedMathQuiz\obj\Debug\timedMathQuiz.pdb
